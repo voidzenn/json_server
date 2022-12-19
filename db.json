@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "name": "typicode"
+  },
+  "notes": [
+    {
+      "title": "Shopping ",
+      "text": "- Buy clothes, shoes, socks and pants",
+      "id": 1
+    },
+    {
+      "title": "Vacation Idea",
+      "text": "- Go to Canada, France, Greece and Italy",
+      "id": 2
+    }
+  ]
+}
