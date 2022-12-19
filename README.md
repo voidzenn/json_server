@@ -1,3 +1,6 @@
+Before running server, run this command to install node_modules
+- yarn
+
 Run server with | Default port 3000
 - yarn serve-json
 
