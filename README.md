@@ -4,12 +4,15 @@
 #### Hepful YT tutorial about json-sever [link](https://youtube.com/playlist?list=PLC3y8-rFHvwhc9YZIdqNL5sWeTCGxF4ya)
 #### About json-sever [link](https://www.npmjs.com/package/json-server)
 
-Before running server, run this command to install node_modules
-- **yarn**
+Before running server, run this commands
+- Install json-server global
+  - **npm install -g json-server** 
+- Install modules
+  - **yarn**
 
 Run server with | Default port 3000
 - **yarn serve-json**
 
-Update port 
+Custom port 
 - Go to package json, then scripts, then in serve-json update **3000** to your desired port
 
